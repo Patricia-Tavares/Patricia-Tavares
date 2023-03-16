@@ -2,7 +2,7 @@
 
 💻 👩🏻‍🎓   Graduanda de engenharia de mecatrônica (10/10)
 
-💻 ✍🏻  TCC na area de Data Science
+💻 ✍🏻  TCC na área de Data Science
 
 💻 ✌🏻   Conhecimentos em C e Python
 
