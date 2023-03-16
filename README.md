@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou a Patrícia Tavares 🌸
 
-<!--
-**Patricia-Tavares/Patricia-Tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 👩🏻‍🎓   Graduanda de engenharia de mecatrônica (10/10)
 
-Here are some ideas to get you started:
+💻 ✍🏻  TCC na area de Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 ✌🏻   Conhecimentos em C e Python
+
+💻      Atualmente fazendo curso de Data Analytics na Digital College 2023-2024
+
+
+
+![Patricia GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricia-Tavares&show_icons=true&theme=dracula)
