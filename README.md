@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Patrícia Tavares 🌸
 
-💻 👩🏻‍🎓   Graduanda de engenharia de mecatrônica (10/10)
+💻 👩🏻‍🎓  Engenheira de Mecatrônica
 
 💻 ✍🏻  TCC na área de Data Science
 
